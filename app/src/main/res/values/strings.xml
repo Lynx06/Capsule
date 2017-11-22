@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Capsule</string>
+    <string name="action_settings">Settings</string>
+    <string name="digite_o_nome_do_cliente">Digite o nome do cliente</string>
+    <string name="sexo">Sexo:</string>
+    <string name="masculino">Masculino</string>
+</resources>
